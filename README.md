@@ -62,7 +62,7 @@ I'm a **Web & Mobile Developer** with a strong background in **Artificial Intell
 ## 📫 Let's Connect!
 
 - 🌐 [Portfolio Website](https://your-portfolio.com)
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/enrique-brooks/)
 - 📧 Email: [your.email@example.com](mailto:enriquebrooks321@gmail.com)
 
 ---
