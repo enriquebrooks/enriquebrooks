@@ -55,7 +55,7 @@ I'm a **Web & Mobile Developer** with a strong background in **Artificial Intell
 | **DevLink** | A portfolio-builder web app for developers to showcase their projects. | React, Node.js, MongoDB |
 | **SmartTask** | A productivity tool that uses AI to suggest optimized daily plans. | Next.js, Python (AI), TailwindCSS |
 
-👉 _More projects in my repositories!_
+👉 _More projects in [my repositories](https://github.com/enriquebrooks?tab=repositories)!_
 
 ---
 
